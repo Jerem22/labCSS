@@ -1,0 +1,6 @@
+git init : créer un repertoire là où on le souhaite
+
+git status : quoi de neuf ?
+
+git add --all : ajouter les modifications
+
